@@ -19,7 +19,7 @@ It is:
 
 kind of like your own “Heroku” with an app store.
 
-## Proper Motication
+## Proper Motivation
 
 The `Federalies` are a group of users who run 'federa cloud apps'
 
